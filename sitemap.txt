@@ -1,13 +1,12 @@
-http://example.com/posts/5a8a6c8d.html
 http://example.com/posts/0.html
 http://example.com/posts/0.html
 http://example.com/posts/0.html
 http://example.com/posts/0.html
 http://example.com/about/index.html
 http://example.com/
-http://example.com/tags/%E5%89%8D%E7%AB%AF/
-http://example.com/tags/%E5%AD%A6%E4%B9%A0/
 http://example.com/tags/Java/
-http://example.com/tags/CSAPP/
+http://example.com/tags/%E5%AD%A6%E4%B9%A0/
 http://example.com/tags/%E7%BD%91%E7%BB%9C/
+http://example.com/tags/CSAPP/
+http://example.com/tags/%E5%89%8D%E7%AB%AF/
 http://example.com/categories/Blog/
