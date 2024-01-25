@@ -20,9 +20,9 @@
       
         <tags>
             
-            <tag> 博客搭建 </tag>
-            
             <tag> 学习 </tag>
+            
+            <tag> 博客搭建 </tag>
             
         </tags>
       
@@ -47,9 +47,9 @@
       
         <tags>
             
-            <tag> 学习 </tag>
-            
             <tag> CSAPP </tag>
+            
+            <tag> 学习 </tag>
             
         </tags>
       
@@ -196,7 +196,7 @@
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[<h3 id="个人介绍"><a href="#个人介绍" class="headerlink" title="个人介绍"></a>个人介绍</h3><p>目前专攻java后端，同时学习部分前端基础知识。</p>]]></content>
+        <content type="html"><![CDATA[<h3 id="博客简介"><a href="#博客简介" class="headerlink" title="博客简介"></a>博客简介</h3><p>个人文章存档，生活记录，主打一个玩。</p><h3 id="个人介绍"><a href="#个人介绍" class="headerlink" title="个人介绍"></a>个人介绍</h3><p>学Java死路一条。</p>]]></content>
       
     </entry>
     
