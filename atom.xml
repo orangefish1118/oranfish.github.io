@@ -37,9 +37,9 @@
     <category term="Blog" scheme="http://example.com/categories/Blog/"/>
     
     
-    <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
-    
     <category term="CSAPP" scheme="http://example.com/tags/CSAPP/"/>
+    
+    <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
@@ -63,9 +63,9 @@
     <category term="Blog" scheme="http://example.com/categories/Blog/"/>
     
     
-    <category term="前端" scheme="http://example.com/tags/%E5%89%8D%E7%AB%AF/"/>
-    
     <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="前端" scheme="http://example.com/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
