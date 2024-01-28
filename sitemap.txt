@@ -15,4 +15,5 @@ http://example.com/tags/CSAPP/
 http://example.com/tags/%E7%BD%91%E7%BB%9C/
 http://example.com/tags/Java/
 http://example.com/tags/%E5%89%8D%E7%AB%AF/
+http://example.com/tags/%E7%AE%97%E6%B3%95/
 http://example.com/categories/Blog/
