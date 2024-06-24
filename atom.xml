@@ -375,9 +375,9 @@
     <category term="Study" scheme="https://orangefish1118.github.io/categories/Study/"/>
     
     
-    <category term="Docker" scheme="https://orangefish1118.github.io/tags/Docker/"/>
-    
     <category term="开发工具" scheme="https://orangefish1118.github.io/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="Docker" scheme="https://orangefish1118.github.io/tags/Docker/"/>
     
   </entry>
   
